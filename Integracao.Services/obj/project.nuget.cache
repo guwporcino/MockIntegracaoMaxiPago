@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/uRfejFudMk55FPgHn4uOCul5tuMcR3Dk4rhCBB4tjLqI17YYxJ1keQrxUDLMKUNaGVINZoI+BWccyxHB7PHsw==",
+  "dgSpecHash": "HXVi16e7YMnDYdd+SL1bYOkMsa74m9ORnH3lTAPVGuQ6gDiOZuxANiH6sH0te3KK3pAEj7tQ/TofXsqJnE0YoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.Services\\Integracao.Services.csproj",
+  "projectFilePath": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.Services\\Integracao.Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

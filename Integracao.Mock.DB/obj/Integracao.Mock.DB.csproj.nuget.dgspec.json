@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.Mock.DB\\Integracao.Mock.DB.csproj": {}
+    "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.Mock.DB\\Integracao.Mock.DB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.DTO\\Integracao.DTO.csproj": {
+    "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.DTO\\Integracao.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.DTO\\Integracao.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.DTO\\Integracao.DTO.csproj",
         "projectName": "Integracao.DTO",
-        "projectPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.DTO\\Integracao.DTO.csproj",
+        "projectPath": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.DTO\\Integracao.DTO.csproj",
         "packagesPath": "C:\\Users\\C5132494\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.DTO\\obj\\",
+        "outputPath": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\C5132494\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.Mock.DB\\Integracao.Mock.DB.csproj": {
+    "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.Mock.DB\\Integracao.Mock.DB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.Mock.DB\\Integracao.Mock.DB.csproj",
+        "projectUniqueName": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.Mock.DB\\Integracao.Mock.DB.csproj",
         "projectName": "Integracao.Mock.DB",
-        "projectPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.Mock.DB\\Integracao.Mock.DB.csproj",
+        "projectPath": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.Mock.DB\\Integracao.Mock.DB.csproj",
         "packagesPath": "C:\\Users\\C5132494\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.Mock.DB\\obj\\",
+        "outputPath": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.Mock.DB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\C5132494\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.DTO\\Integracao.DTO.csproj": {
-                "projectPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.DTO\\Integracao.DTO.csproj"
+              "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.DTO\\Integracao.DTO.csproj": {
+                "projectPath": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.DTO\\Integracao.DTO.csproj"
               }
             }
           }

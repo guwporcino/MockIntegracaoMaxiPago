@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.Mock.DB\\Integracao.Mock.DB.csproj",
+      "projectUniqueName": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.Mock.DB\\Integracao.Mock.DB.csproj",
       "projectName": "Integracao.Mock.DB",
-      "projectPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.Mock.DB\\Integracao.Mock.DB.csproj",
+      "projectPath": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.Mock.DB\\Integracao.Mock.DB.csproj",
       "packagesPath": "C:\\Users\\C5132494\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.Mock.DB\\obj\\",
+      "outputPath": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.Mock.DB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\C5132494\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.DTO\\Integracao.DTO.csproj": {
-              "projectPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.DTO\\Integracao.DTO.csproj"
+            "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.DTO\\Integracao.DTO.csproj": {
+              "projectPath": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\Integracao.DTO\\Integracao.DTO.csproj"
             }
           }
         }

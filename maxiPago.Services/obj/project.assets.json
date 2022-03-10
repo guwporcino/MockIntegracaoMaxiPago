@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\maxiPago.Services\\maxiPago.Services.csproj",
+      "projectUniqueName": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\maxiPago.Services\\maxiPago.Services.csproj",
       "projectName": "maxiPago.Services",
-      "projectPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\maxiPago.Services\\maxiPago.Services.csproj",
+      "projectPath": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\maxiPago.Services\\maxiPago.Services.csproj",
       "packagesPath": "C:\\Users\\C5132494\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\maxiPago.Services\\obj\\",
+      "outputPath": "C:\\Users\\C5132494\\source\\repos\\MockIntegracaoMaxiPago\\maxiPago.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\C5132494\\AppData\\Roaming\\NuGet\\NuGet.Config",
