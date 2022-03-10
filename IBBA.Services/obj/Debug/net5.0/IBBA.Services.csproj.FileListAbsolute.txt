@@ -1,0 +1,15 @@
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\bin\Debug\net5.0\IBBA.Services.deps.json
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\bin\Debug\net5.0\IBBA.Services.dll
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\bin\Debug\net5.0\ref\IBBA.Services.dll
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\bin\Debug\net5.0\IBBA.Services.pdb
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\bin\Debug\net5.0\Integracao.DTO.dll
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\bin\Debug\net5.0\Integracao.DTO.pdb
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\obj\Debug\net5.0\IBBA.Services.csproj.AssemblyReference.cache
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\obj\Debug\net5.0\IBBA.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\obj\Debug\net5.0\IBBA.Services.AssemblyInfoInputs.cache
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\obj\Debug\net5.0\IBBA.Services.AssemblyInfo.cs
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\obj\Debug\net5.0\IBBA.Services.csproj.CoreCompileInputs.cache
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\obj\Debug\net5.0\IBBA.Services.csproj.CopyComplete
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\obj\Debug\net5.0\IBBA.Services.dll
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\obj\Debug\net5.0\ref\IBBA.Services.dll
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\IBBA.Services\obj\Debug\net5.0\IBBA.Services.pdb

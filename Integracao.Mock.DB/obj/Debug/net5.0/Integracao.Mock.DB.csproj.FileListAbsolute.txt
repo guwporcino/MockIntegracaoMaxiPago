@@ -1,0 +1,15 @@
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\bin\Debug\net5.0\Integracao.Mock.DB.deps.json
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\bin\Debug\net5.0\Integracao.Mock.DB.dll
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\bin\Debug\net5.0\ref\Integracao.Mock.DB.dll
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\bin\Debug\net5.0\Integracao.Mock.DB.pdb
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\bin\Debug\net5.0\Integracao.DTO.dll
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\bin\Debug\net5.0\Integracao.DTO.pdb
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\obj\Debug\net5.0\Integracao.Mock.DB.csproj.AssemblyReference.cache
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\obj\Debug\net5.0\Integracao.Mock.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\obj\Debug\net5.0\Integracao.Mock.DB.AssemblyInfoInputs.cache
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\obj\Debug\net5.0\Integracao.Mock.DB.AssemblyInfo.cs
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\obj\Debug\net5.0\Integracao.Mock.DB.csproj.CoreCompileInputs.cache
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\obj\Debug\net5.0\Integracao.Mock.DB.csproj.CopyComplete
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\obj\Debug\net5.0\Integracao.Mock.DB.dll
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\obj\Debug\net5.0\ref\Integracao.Mock.DB.dll
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.Mock.DB\obj\Debug\net5.0\Integracao.Mock.DB.pdb

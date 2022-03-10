@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Integracao.Mock.DB/1.0.0": {
+        "dependencies": {
+          "Integracao.DTO": "1.0.0"
+        },
+        "runtime": {
+          "Integracao.Mock.DB.dll": {}
+        }
+      },
+      "Integracao.DTO/1.0.0": {
+        "runtime": {
+          "Integracao.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Integracao.Mock.DB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Integracao.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

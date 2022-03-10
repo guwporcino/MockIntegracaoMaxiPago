@@ -1,0 +1,12 @@
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.DTO\bin\Debug\net5.0\Integracao.DTO.deps.json
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.DTO\bin\Debug\net5.0\Integracao.DTO.dll
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.DTO\bin\Debug\net5.0\ref\Integracao.DTO.dll
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.DTO\bin\Debug\net5.0\Integracao.DTO.pdb
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.DTO\obj\Debug\net5.0\Integracao.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.DTO\obj\Debug\net5.0\Integracao.DTO.AssemblyInfoInputs.cache
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.DTO\obj\Debug\net5.0\Integracao.DTO.AssemblyInfo.cs
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.DTO\obj\Debug\net5.0\Integracao.DTO.csproj.CoreCompileInputs.cache
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.DTO\obj\Debug\net5.0\Integracao.DTO.dll
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.DTO\obj\Debug\net5.0\ref\Integracao.DTO.dll
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.DTO\obj\Debug\net5.0\Integracao.DTO.pdb
+C:\Users\C5132494\Downloads\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento-main\MockProdutosIntegracaoPagamento\Integracao.DTO\obj\Debug\net5.0\Integracao.DTO.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "43iRBZVYbSEUQ5dmI6YfGoYt0dEPVxoUv9cwOaWugNUwKsFpdiUciqgXlQgJ0ISrFZ7wfWwjpsAw45Z2IJX8Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.IOC\\Integracao.IOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\C5132494\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\C5132494\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\C5132494\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\C5132494\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

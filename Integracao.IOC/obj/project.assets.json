@@ -1,0 +1,284 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "RestSharp/107.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Text.Json": "5.0.0"
+        },
+        "compile": {
+          "lib/net5.0/RestSharp.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/RestSharp.dll": {}
+        }
+      },
+      "System.Text.Json/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {}
+        }
+      },
+      "IBBA.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Integracao.DTO": "1.0.0",
+          "Newtonsoft.Json": "13.0.1",
+          "RestSharp": "107.3.0"
+        },
+        "compile": {
+          "bin/placeholder/IBBA.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IBBA.Services.dll": {}
+        }
+      },
+      "Integracao.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Integracao.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Integracao.DTO.dll": {}
+        }
+      },
+      "Integracao.Mock.DB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Integracao.DTO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Integracao.Mock.DB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Integracao.Mock.DB.dll": {}
+        }
+      },
+      "maxiPago.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/maxiPago.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/maxiPago.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+      "sha512": "ORj7Zh81gC69TyvmcUm9tSzytcy8AVousi+IVRAI8nLieQjOFryRusSFh7+aLk16FN9pQNqJAiMd7BTKINK0kA==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "RestSharp/107.3.0": {
+      "sha512": "qu+A+VAnVLX3OeWVNm11UJz0aVErqSfYqIiOUbJM9x98uLymCOoL/oXRAjMb6XHra27WXxHmzy9EKEOKXWR6Pw==",
+      "type": "package",
+      "path": "restsharp/107.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/RestSharp.dll",
+        "lib/net5.0/RestSharp.xml",
+        "lib/net6.0/RestSharp.dll",
+        "lib/net6.0/RestSharp.xml",
+        "lib/netstandard2.0/RestSharp.dll",
+        "lib/netstandard2.0/RestSharp.xml",
+        "restsharp.107.3.0.nupkg.sha512",
+        "restsharp.nuspec",
+        "restsharp.png"
+      ]
+    },
+    "System.Text.Json/5.0.0": {
+      "sha512": "+luxMQNZ2WqeffBU7Ml6njIvxc8169NW2oU+ygNudXQGZiarjE7DOtN7bILiQjTZjkmwwRZGTtLzmdrSI/Ustw==",
+      "type": "package",
+      "path": "system.text.json/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Text.Json.dll",
+        "lib/net461/System.Text.Json.xml",
+        "lib/netcoreapp3.0/System.Text.Json.dll",
+        "lib/netcoreapp3.0/System.Text.Json.xml",
+        "lib/netstandard2.0/System.Text.Json.dll",
+        "lib/netstandard2.0/System.Text.Json.xml",
+        "system.text.json.5.0.0.nupkg.sha512",
+        "system.text.json.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "IBBA.Services/1.0.0": {
+      "type": "project",
+      "path": "../IBBA.Services/IBBA.Services.csproj",
+      "msbuildProject": "../IBBA.Services/IBBA.Services.csproj"
+    },
+    "Integracao.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Integracao.DTO/Integracao.DTO.csproj",
+      "msbuildProject": "../Integracao.DTO/Integracao.DTO.csproj"
+    },
+    "Integracao.Mock.DB/1.0.0": {
+      "type": "project",
+      "path": "../Integracao.Mock.DB/Integracao.Mock.DB.csproj",
+      "msbuildProject": "../Integracao.Mock.DB/Integracao.Mock.DB.csproj"
+    },
+    "maxiPago.Services/1.0.0": {
+      "type": "project",
+      "path": "../maxiPago.Services/maxiPago.Services.csproj",
+      "msbuildProject": "../maxiPago.Services/maxiPago.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "IBBA.Services >= 1.0.0",
+      "Integracao.Mock.DB >= 1.0.0",
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 5.0.0",
+      "maxiPago.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\C5132494\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.IOC\\Integracao.IOC.csproj",
+      "projectName": "Integracao.IOC",
+      "projectPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.IOC\\Integracao.IOC.csproj",
+      "packagesPath": "C:\\Users\\C5132494\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.IOC\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\C5132494\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\IBBA.Services\\IBBA.Services.csproj": {
+              "projectPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\IBBA.Services\\IBBA.Services.csproj"
+            },
+            "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.Mock.DB\\Integracao.Mock.DB.csproj": {
+              "projectPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\Integracao.Mock.DB\\Integracao.Mock.DB.csproj"
+            },
+            "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\maxiPago.Services\\maxiPago.Services.csproj": {
+              "projectPath": "C:\\Users\\C5132494\\Downloads\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento-main\\MockProdutosIntegracaoPagamento\\maxiPago.Services\\maxiPago.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
